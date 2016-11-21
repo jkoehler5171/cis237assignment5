@@ -3,6 +3,7 @@
 ## Due 11-22-2016
 
 ## Author
+Jordan Koehler
 
 ## Description
 
@@ -80,5 +81,7 @@ Solution Requirements:
 | Total                                   | 100    |
 
 ## Outside Resources Used
+I used the inclass example program and a little bit of Stack Overflow
 
 ## Known Problems, Issues, And/Or Errors in the Program
+None that I can think of, though I'm fairly certain if someone was determined there are plenty of ways to make it throw an exception or store bad data.
